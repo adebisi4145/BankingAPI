@@ -132,3 +132,4 @@ C:\Users\adeye\source\repos\BankingAPI\BankingAPI\obj\Debug\net8.0\refint\Bankin
 C:\Users\adeye\source\repos\BankingAPI\BankingAPI\obj\Debug\net8.0\BankingAPI.pdb
 C:\Users\adeye\source\repos\BankingAPI\BankingAPI\obj\Debug\net8.0\BankingAPI.genruntimeconfig.cache
 C:\Users\adeye\source\repos\BankingAPI\BankingAPI\obj\Debug\net8.0\ref\BankingAPI.dll
+C:\Users\adeye\source\repos\BankingAPI\BankingAPI\obj\Debug\net8.0\BankingAPI.sourcelink.json
